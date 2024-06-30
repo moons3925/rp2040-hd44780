@@ -1,7 +1,7 @@
 # ラズピコでRust
 
 ラズピコのSPIでBME280センサーとつなぎます。
-UARTを使ったprintln!マクロで測定結果を出力します。
+キャラクタ型のLCDに計測値を表示するサンプルです。
 
 ## setting.json
 
@@ -14,4 +14,4 @@ UARTを使ったprintln!マクロで測定結果を出力します。
 
 詳しくは以下をご覧になってください。
 
-[ラズピコでRust　BME280センサーをSPIでつないでみる](https://moons.link/pico/post-1372/)
+[ラズピコでRust　キャラクタ型LCDとつないでみる](https://moons.link/pico/post-1402/)
